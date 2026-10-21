@@ -1,0 +1,310 @@
+{
+  "name": "Purrplu v1.1",
+  "description": "Clean, midnight-purple aesthetic",
+  "version": "3",
+  "authors": [
+    {
+      "name": "Poly"
+    }
+  ],
+  "semanticColors": {
+    "BACKGROUND_ACCENT": [
+      "#A887D4"
+    ],
+    "BACKGROUND_BRAND": [
+      "#A887D4"
+    ],
+    "MENTION_FOREGROUND": [
+      "#A887D4"
+    ],
+    "TEXT_LINK": [
+      "#A887D4"
+    ],
+    "INTERACTIVE_ACTIVE": [
+      "#A887D4"
+    ],
+    "INTERACTIVE_HOVER": [
+      "#8050C0"
+    ],
+    "CHANNELS_DEFAULT": [
+      "#D9CBEC"
+    ],
+    "CHANNEL_ICON": [
+      "#D9CBEC"
+    ],
+    "HEADER_SECONDARY": [
+      "#D9CBEC"
+    ],
+    "INTERACTIVE_MUTED": [
+      "#D9CBEC"
+    ],
+    "REDESIGN_CHANNEL_CATEGORY_NAME_TEXT": [
+      "#D9CBEC"
+    ],
+    "TEXT_MUTED": [
+      "#D9CBEC"
+    ],
+    "ANDROID_NAVIGATION_SCRIM_BACKGROUND": [
+      "#040404"
+    ],
+    "CHAT_BACKGROUND": [
+      "#040404"
+    ],
+    "BACKGROUND_MOBILE_PRIMARY": [
+      "#040404"
+    ],
+    "BACKGROUND_PRIMARY": [
+      "#040404"
+    ],
+    "BG_BASE_PRIMARY": [
+      "#040404"
+    ],
+    "HOME_BACKGROUND": [
+      "#040404"
+    ],
+    "STATUS_DANGER_TEXT": [
+      "#040404"
+    ],
+    "BACKGROUND_FLOATING": [
+      "#0C0713"
+    ],
+    "BACKGROUND_MOBILE_SECONDARY": [
+      "#0C0713"
+    ],
+    "BACKGROUND_NESTED_FLOATING": [
+      "#0C0713"
+    ],
+    "BACKGROUND_SECONDARY": [
+      "#0C0713"
+    ],
+    "BACKGROUND_SECONDARY_ALT": [
+      "#0C0713"
+    ],
+    "BACKGROUND_SURFACE_RAISED": [
+      "#0C0713"
+    ],
+    "BACKGROUND_TERTIARY": [
+      "#0C0713"
+    ],
+    "BG_BASE_SECONDARY": [
+      "#0C0713"
+    ],
+    "BG_BASE_TERTIARY": [
+      "#0C0713"
+    ],
+    "BG_SURFACE_OVERLAY": [
+      "#0C0713"
+    ],
+    "BG_SURFACE_OVERLAY_TMP": [
+      "#0C0713"
+    ],
+    "BG_SURFACE_RAISED": [
+      "#0C0713"
+    ],
+    "CARD_PRIMARY_BG": [
+      "#0C0713"
+    ],
+    "CARD_SECONDARY_BG": [
+      "#0C0713"
+    ],
+    "CHANNELTEXTAREA_BACKGROUND": [
+      "#0C0713"
+    ],
+    "EMBED_BACKGROUND": [
+      "#0C0713"
+    ],
+    "INPUT_BACKGROUND_DEFAULT": [
+      "#0C0713"
+    ],
+    "KEYBOARD": [
+      "#0C0713"
+    ],
+    "PANEL_BG": [
+      "#0C0713"
+    ],
+    "POLLS_NORMAL_FILL_HOVER": [
+      "#0C0713"
+    ],
+    "POLLS_NORMAL_IMAGE_BACKGROUND": [
+      "#0C0713"
+    ],
+    "REDESIGN_ACTIVITY_CARD_BACKGROUND": [
+      "#0C0713"
+    ],
+    "REDESIGN_ACTIVITY_CARD_BACKGROUND_PRESSED": [
+      "#0C0713"
+    ],
+    "REDESIGN_BUTTON_SECONDARY_ALT_BACKGROUND": [
+      "#0C0713"
+    ],
+    "REDESIGN_BUTTON_SECONDARY_BACKGROUND": [
+      "#0C0713"
+    ],
+    "REDESIGN_BUTTON_TERTIARY_BACKGROUND": [
+      "#0C0713"
+    ],
+    "REDESIGN_CHAT_INPUT_BACKGROUND": [
+      "#0C0713"
+    ],
+    "HEADER_PRIMARY": [
+      "#F1ECF8"
+    ],
+    "INTERACTIVE_NORMAL": [
+      "#F1ECF8"
+    ],
+    "INTERACTIVE_TEXT_DEFAULT": [
+      "#F1ECF8"
+    ],
+    "REDESIGN_CHANNEL_NAME_TEXT": [
+      "#F1ECF8"
+    ],
+    "TEXT_DEFAULT": [
+      "#F1ECF8"
+    ],
+    "TEXT_NORMAL": [
+      "#F1ECF8"
+    ],
+    "TEXT_PRIMARY": [
+      "#F1ECF8"
+    ],
+    "TEXT_STRONG": [
+      "#F1ECF8"
+    ],
+    "ANDROID_RIPPLE": [
+      "#5b2a82"
+    ],
+    "BACKGROUND_MENTIONED": [
+      "rgba(114,0,0,0.1)"
+    ],
+    "BACKGROUND_MENTIONED_HOVER": [
+      "rgba(170,0,0,0.1)"
+    ],
+    "BACKGROUND_MESSAGE_HOVER": [
+      "#FFFFFF0D"
+    ],
+    "BACKGROUND_MODIFIER_ACCENT": [
+      "#FFFFFF12"
+    ],
+    "BACKGROUND_MODIFIER_ACTIVE": [
+      "#FFFFFF14"
+    ],
+    "BACKGROUND_MODIFIER_HOVER": [
+      "#FFFFFF0F"
+    ],
+    "BACKGROUND_MODIFIER_SELECTED": [
+      "#FFFFFF1A"
+    ],
+    "BACKGROUND_MODIFIER_ACCEPT": [
+      "#43b58133"
+    ],
+    "BACKGROUND_MODIFIER_ACCEPT_HOVER": [
+      "#43b5814d"
+    ],
+    "BACKGROUND_MOD_MUTED": [
+      "#121214"
+    ],
+    "BG_BACKDROP": [
+      "#000000b2"
+    ],
+    "BORDER_FAINT": [
+      "#FFFFFF12"
+    ],
+    "BORDER_SUBTLE": [
+      "#FFFFFF1C"
+    ],
+    "BORDER_STRONG": [
+      "#FFFFFF26"
+    ],
+    "REDESIGN_BUTTON_DANGER_BACKGROUND": [
+      "#7f007b"
+    ],
+    "REDESIGN_BUTTON_SECONDARY_BORDER": [
+      "#FFFFFF1A"
+    ],
+    "SPOILER_HIDDEN_BACKGROUND": [
+      "#000000"
+    ],
+    "STATUS_DANGER": [
+      "#7f007b"
+    ],
+    "STATUS_DANGER_BACKGROUND": [
+      "#7f007b"
+    ],
+    "TEXT_SECONDARY": [
+      "#d79dff"
+    ]
+  },
+  "rawColors": {
+    "BRAND_200": "#A887D4",
+    "BRAND_260": "#A887D4",
+    "BRAND_300": "#A887D4",
+    "BRAND_330": "#A887D4",
+    "BRAND_345": "#A887D4",
+    "BRAND_360": "#A887D4",
+    "BRAND_400": "#A887D4",
+    "BRAND_430": "#A887D4",
+    "BRAND_460": "#A887D4",
+    "BRAND_500": "#A887D4",
+    "BRAND_530": "#A887D4",
+    "BRAND_600": "#A887D4",
+    "BRAND_630": "#A887D4",
+    "BRAND_660": "#A887D4",
+    "BRAND_700": "#A887D4",
+    "PLUM_3": "#A887D4",
+    "PLUM_15": "#A887D4",
+    "PRIMARY_300": "#A887D4",
+    "PRIMARY_360": "#A887D4",
+    "PRIMARY_500": "#A887D4",
+    "PRIMARY_530": "#A887D4",
+    "BRAND_560": "#8050C0",
+    "PRIMARY_400": "#8050C0",
+    "PLUM_9": "#D9CBEC",
+    "PLUM_10": "#D9CBEC",
+    "PLUM_11": "#D9CBEC",
+    "PLUM_13": "#D9CBEC",
+    "PRIMARY_730": "#D9CBEC",
+    "ROLE_DEFAULT": "#D9CBEC",
+    "WHITE_630": "#D9CBEC",
+    "PLUM_17": "#040404",
+    "PLUM_20": "#040404",
+    "PLUM_24": "#040404",
+    "PLUM_25": "#040404",
+    "PRIMARY_600": "#040404",
+    "PRIMARY_DARK_700": "#040404",
+    "PRIMARY_DARK_800": "#040404",
+    "PLUM_16": "#0C0713",
+    "PLUM_19": "#0C0713",
+    "PLUM_21": "#0C0713",
+    "PLUM_22": "#0C0713",
+    "PRIMARY_460": "#0C0713",
+    "PRIMARY_630": "#0C0713",
+    "PRIMARY_660": "#0C0713",
+    "PRIMARY_700": "#0C0713",
+    "PRIMARY_DARK_600": "#0C0713",
+    "PRIMARY_DARK_630": "#0C0713",
+    "PRIMARY_DARK_660": "#0C0713",
+    "BRAND_730": "#F1ECF8",
+    "PLUM_1": "#F1ECF8",
+    "PLUM_4": "#F1ECF8",
+    "PLUM_6": "#F1ECF8",
+    "PRIMARY_100": "#F1ECF8",
+    "PRIMARY_200": "#F1ECF8",
+    "PRIMARY_330": "#F1ECF8",
+    "PRIMARY_DARK_200": "#F1ECF8",
+    "WHITE_500": "#F1ECF8",
+    "BLACK_500": "#000000b2",
+    "PLUM_18": "#101012",
+    "PRIMARY_645": "#101012",
+    "PRIMARY_800": "#101012",
+    "GREEN_500": "#43b581",
+    "RED_500": "#7f007b",
+    "ORANGE_500": "#faa61a",
+    "YELLOW_500": "#faa61a"
+  },
+  "plus": {
+    "version": 0,
+    "customOverlays": true,
+    "iconpack": "md3"
+  },
+  "spec": 2
+}
